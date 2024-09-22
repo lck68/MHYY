@@ -1,0 +1,4 @@
+requests
+sentry-sdk
+pyyaml
+httpx
